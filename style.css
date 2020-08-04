@@ -1,7 +1,7 @@
 body {
 	height: 100%;
 	margin: 0;
-	text-align: center;
+	text-align: Left;
 	width: 100%;
 }
 
@@ -12,10 +12,18 @@ h1 {
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 20px;
 }
 
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+   background-size: cover;
+   color: #ffffff;
+}
 
 p {
-color:red;
+color:black;
 }
