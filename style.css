@@ -12,18 +12,18 @@ h1 {
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 25px;
 }
 
-.hero {
-	padding: 250px 0;
-	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-   background-size: cover;
-   color: #ffffff;
+h3 {
+	
+	font size: 25px;
+}
+
+h4 {
+	font size: 20px;
 }
 
 p {
-color:black;
+color: black;
 }
