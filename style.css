@@ -25,7 +25,7 @@ h4 {
 }
 
 .hero {
-	background-image: url('https://www.myfreetextures.com/wp-content/uploads/2014/11/floral-old-paper-or-parchment.jpg');
+	background-image: url("https://www.myfreetextures.com/wp-content/uploads/2014/11/floral-old-paper-or-parchment.jpg");
 	padding: 250px 0;
 	margin: 30px;
         font-family: 'Trebuchet MS', Helvetica, sans-serif;
