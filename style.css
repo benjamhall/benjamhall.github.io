@@ -24,13 +24,13 @@ h4 {
 	font size: 20px;
 }
 
-hero {
+.hero {
+	background-image: url('https://www.myfreetextures.com/wp-content/uploads/2014/11/floral-old-paper-or-parchment.jpg');
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://wallpapersafari.com/w/OndXb0/");
-   background-size: cover;
-   color: black;
+        font-family: 'Trebuchet MS', Helvetica, sans-serif;
+        background-size: cover;
+        color: black;
 }
 
 p {
