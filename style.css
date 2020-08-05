@@ -1,4 +1,5 @@
 body {
+	font family:'Trebuchet MS', Helvetica, sans-serif;
 	height: 100%;
 	margin: 0;
 	text-align: Left;
@@ -7,8 +8,7 @@ body {
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino Linotype, 'Palatino Linotype', serif;
-  color: rgb(46,105,163); 
+        font-family:'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h2 {
