@@ -1,29 +1,54 @@
-body {
-	font family:'Trebuchet MS', Helvetica, sans-serif;
-	height: 100%;
-	margin: 0;
-	text-align: Left;
-	width: 100%;
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	magin-right: 200px;
+	
+	padding: 10px 150px 10px 150px;
+	
+	border-radius: 15px;
+	backgroud-color: #C4CECD
+		
+	text-align: left;
 }
+
+#content-professional {
+	font-size: 42px
 
 h1 {
 	font-size: 32px;
+	margin-bottom: -25px;
         font-family:
 }
 
 h2 {
 	font-size: 25px;
+	margin-bottom: -6px;
 }
 
 h3 {
 	
-	font size: 25px;
+	font-size: 25px;
+	margin-bottom: -25px;
 }
 
 h4 {
-	font size: 20px;
+	font-size: 20px;
+	margin-bottom: -10px;
 }
 
+li {
+	font-size: 18px;
+	text-align: left;
+}
+	
+#bottom {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #C4CECD;
+	boorder-radius: 15px;
+	height: 100px;
+}
+	
 .hero {
 	padding: 250px 0;
 	margin: 30px;
