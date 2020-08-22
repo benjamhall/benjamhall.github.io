@@ -21,8 +21,6 @@ body{
 #content-professional {
 	font-size: 42px
 		
-#content-contact {
-}
 
 h1 {
 	font-size: 32px;
@@ -59,14 +57,6 @@ li {
 	height: 100px;
 }
 	
-.hero {
-	padding: 250px 0;
-	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://www.myfreetextures.com/wp-content/uploads/2014/11/floral-old-paper-or-parchment.jpg");
-   background-size: cover;
-   color: black;
-}
 
 .navbar{
 	display: inline;
