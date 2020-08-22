@@ -64,6 +64,10 @@ li {
 	border-radius: 100%;
 }
 	
+.me:hover .overlay{
+ 	opacity: 1;
+} 
+	
 .overlay{
  	position: relative; 
   	top: 0; 
