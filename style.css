@@ -6,7 +6,7 @@ body{
 	margin: 0;
 }
 
-#container {
+.container {
 	margin-top: 20px;
 	margin-left: 200px;
 	magin-right: 200px;
@@ -16,7 +16,7 @@ body{
 	border-radius: 15px;
 	background-color: #C4CECD
 		
-	text-align: center;
+	text-align: left;
 }
 
 #content-professional {
