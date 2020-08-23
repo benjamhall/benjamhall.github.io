@@ -90,14 +90,13 @@ li {
 }	
 
 .summary{	
-	border-bottom: 2px solid black;
+	padding-bottom: 5px;
 	margin-left: 10px;
 	text-align: center;
 }
 	
 .work{	
 	margin-left: 10px;
-	padding-bottom: 5px;
 	text-align: center;
 }
 
