@@ -90,7 +90,7 @@ li {
 }	
 
 .summary{	
-	padding-bottom: 5px;
+	border-bottom: 2px solid black;
 	margin-left: 10px;
 	text-align: center;
 }
