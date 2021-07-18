@@ -87,8 +87,24 @@ li {
 }
 
 .navbar{
-	display: inline;
-	border: 4px black
+  position: fixed;
+  overflow: hidden;
+  text-align: center;
+  padding-top: 10px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  z-index: 10;
+  background: #2c3e50;
+  -webkit-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+}
+
+.nav-item{
+  text-align: center;
+  padding: 15px 20px;
 }	
 
 .summary{	
